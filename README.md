@@ -1,3 +1,7 @@
+# NOTE: This repository is archived
+
+This repo will no longer be updated. Please update your links to use [algorand/bls_sigs_ref](https://github.com/algorand/bls_sigs_ref) instead.
+
 # BLS signatures draft standard, reference implementations
 
 This repository contains reference implementations of the
